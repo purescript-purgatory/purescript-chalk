@@ -2,6 +2,12 @@
 
 > Chalk bindings for Purescript
 
+## Install 
+
+```sh
+bower install git@github.com:purescript-purgatory/purescript-chalk.git
+```
+
 ## Usage
 
 ```haskell
